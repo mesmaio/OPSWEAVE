@@ -22,4 +22,3 @@
 ## Governance & Approval Gates
 
 Every phase must pass automated verification and explicit manual acceptance criteria before requesting human approval. Progression to subsequent phases occurs only upon explicit human instruction.
-

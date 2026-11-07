@@ -10,4 +10,3 @@ describe('App Component', () => {
     expect(screen.getByText(/P0 Foundation/i)).toBeInTheDocument();
   });
 });
-

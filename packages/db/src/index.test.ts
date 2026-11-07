@@ -18,4 +18,3 @@ describe('DB Package', () => {
     expect(() => validateDatabaseConfig(config)).toThrow();
   });
 });
-

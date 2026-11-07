@@ -73,4 +73,3 @@ describe('Graph Core', () => {
     expect(eventView.edges).toHaveLength(0);
   });
 });
-

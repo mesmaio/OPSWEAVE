@@ -11,4 +11,3 @@ describe('API Health', () => {
     expect(body.timestamp).toBeDefined();
   });
 });
-

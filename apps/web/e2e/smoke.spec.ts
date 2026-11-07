@@ -8,4 +8,3 @@ test.describe('OpsWeave Smoke Test', () => {
     await expect(heading).toHaveText('OpsWeave');
   });
 });
-

@@ -35,4 +35,3 @@ describe('Ingestion Core', () => {
     expect(res.errors).toHaveLength(0);
   });
 });
-

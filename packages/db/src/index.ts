@@ -25,4 +25,3 @@ export function validateDatabaseConfig(config: DatabaseConfig): boolean {
   }
   return true;
 }
-

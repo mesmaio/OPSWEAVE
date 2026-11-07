@@ -38,4 +38,3 @@ export function formatCopilotSystemPrompt(context: ResolvedCopilotContext): stri
     'Distinguish verified operational information from inferences.',
   ].join('\n');
 }
-

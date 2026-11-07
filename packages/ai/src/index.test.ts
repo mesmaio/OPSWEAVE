@@ -34,4 +34,3 @@ describe('AI Package', () => {
     expect(prompt).toContain('Registration (section)');
   });
 });
-

@@ -46,4 +46,3 @@ describe('Contracts', () => {
     expect(GraphNodeSchema.parse(node)).toEqual(node);
   });
 });
-

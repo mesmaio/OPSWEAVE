@@ -9,4 +9,3 @@ healthRoute.get('/health', (c) => {
     service: 'opsweave-api',
   });
 });
-

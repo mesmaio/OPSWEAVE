@@ -18,4 +18,3 @@ This document establishes non-negotiable rules for all AI agents (Antigravity, C
 5. **AI Proposals vs Commits**: AI outputs are untrusted proposals. Deterministic code validates; human approves; transactional code commits.
 6. **No Fabricated Production Data**: Do not seed fake operational metrics, hypothetical events, or mock users into production UI.
 7. **Testing & Acceptance**: Every phase must pass its automated checks (build, lint, typecheck, unit, e2e) and end with `docs/testing/PX-acceptance-report.md` before stopping.
-
